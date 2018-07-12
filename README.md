@@ -1,2 +1,2 @@
 # PyQt5
-My pyqt codes
+* My pyqt codes
